@@ -1,0 +1,1 @@
+(C# ArrayList(Koleksiyonlar) )[https://app.patika.dev/courses/csharp-101/3-arraylist-nedir]
